@@ -2,4 +2,4 @@
 
 [Lobby](../lobby.md)
 
-`.\.` [Hallway](./HALLWAY/hallway.md)
+`.\.` [Hallway](./.HALLWAY/.hallway.md)
