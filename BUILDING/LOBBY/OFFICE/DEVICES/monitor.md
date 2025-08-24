@@ -1,6 +1,6 @@
 
 ```
-Loading signals... ■
+Loading complete.
 
 ```
 
